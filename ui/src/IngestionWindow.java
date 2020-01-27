@@ -17,6 +17,7 @@ public class IngestionWindow {
         loginButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
+                System.out.println();
             }
         });
     }
