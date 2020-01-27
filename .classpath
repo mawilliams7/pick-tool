@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="cswt/src"/>
+	<classpathentry kind="src" path="SoftwareConstructionClient/src"/>
+	<classpathentry kind="lib" path="jars/json-20140107.jar"/>
+	<classpathentry kind="lib" path="SoftwareConstructionClient/lib/miglayout-core-javadoc.jar"/>
+	<classpathentry kind="lib" path="SoftwareConstructionClient/lib/miglayout-core-sources.jar"/>
+	<classpathentry kind="lib" path="SoftwareConstructionClient/lib/miglayout-core.jar"/>
+	<classpathentry kind="lib" path="SoftwareConstructionClient/lib/miglayout-swing-javadoc.jar"/>
+	<classpathentry kind="lib" path="SoftwareConstructionClient/lib/miglayout-swing-sources.jar"/>
+	<classpathentry kind="lib" path="SoftwareConstructionClient/lib/miglayout-swing.jar"/>
+	<classpathentry kind="output" path="SoftwareConstructionClient/out/production/SoftwareConstructionClient"/>
+</classpath>
